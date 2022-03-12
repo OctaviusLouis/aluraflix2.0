@@ -1,0 +1,36 @@
+body{
+    background-image: url("bg.jpg");
+    background-position-x: center;
+    text-align: center;
+}
+header{
+    margin-top: 20%;
+}
+header h1{
+font-size: 70px;
+color: rgb(255, 123, 0);
+background-color: rgba(82, 20, 20, 0.664);
+}
+    header h2{
+        font-size: 50px;
+        color: rgba(35, 124, 47, 0.815);
+    }
+    label{
+        font-size: 20px;
+        color: rgb(255, 123, 0);
+        background-color: rgba(82, 20, 20, 0.664);
+        display: block;
+        padding: 1px 1px;
+        margin-left: 550px;
+        margin-right: 550px;
+    }
+   input{
+       display: block;
+       margin: 5px auto;
+       background-color: rgb(35, 124, 47);
+       font-size: large;
+   }
+   img{
+       padding: 10px 10px;
+   }
+  
